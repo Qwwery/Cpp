@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "c20cfa1d60dbae90",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c94b33db771dc5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "751f27fe2e34e706",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Алгоритм Дейкстры.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Алгоритм Дейкстры"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d4875c3d6b1095c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8fb060d2c171c6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eaf92abd0e54c491",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "490da41c3a369a6a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "af966cbcdc486df8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "78647be56e00f106",
+    "type": "split",
+    "children": [
+      {
+        "id": "a14c5e0cb0c51bf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7ffc687c5323037",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "92b0754c820ec80c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Алгоритм Дейкстры.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Алгоритм Дейкстры"
+            }
+          },
+          {
+            "id": "8c15014a6c664f89",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "bb27c8833a32fee5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Алгоритм Дейкстры.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Алгоритм Дейкстры"
+            }
+          },
+          {
+            "id": "5ed172e32cf92463",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "5ed172e32cf92463",
+  "lastOpenFiles": [
+    "Динамическое программирование.md",
+    "DFS.md",
+    "Algorihm.md",
+    "Массив.md",
+    "ДП по состояниям.md",
+    "Алгоритм Дейкстры.md",
+    "Графы.md",
+    "Компаратор.md",
+    "Матрицы.md",
+    "Структура данных.md",
+    "Cmatch.md",
+    "Deque.md",
+    "int.md",
+    "всё",
+    "Новая папка",
+    "remote-blog/README.md",
+    "remote-blog",
+    "0/README.md",
+    "0"
+  ]
+}
